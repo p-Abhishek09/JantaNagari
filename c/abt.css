@@ -1,0 +1,39 @@
+.about{
+    height: 100%;
+    width: 100%; 
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 30px 30px;
+}
+.about1{
+    height: 100%;
+    width: 50%;
+    /* background-color: burlywood; */
+}
+.about1 img{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}   
+.about2{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(243, 245, 222);
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+.about2 h1{
+    text-align: center;
+    font-family: mv Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    font-weight: 50;
+    font-style: oblique;
+}
+.about2 p{
+    
+    font-size: 21px;
+    font-family: gilroy;
+    font-style: bold;
+    padding: 18px 5px;
+}
