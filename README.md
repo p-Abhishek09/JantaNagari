@@ -1,6 +1,6 @@
 # Janta Nagari - Hackndore
 
-Welcome to the Janta Nagari - Hackndore repository. This project is designed to enhance the efficiency and accessibility of municipal services in Indore by providing an e-office system. The system includes several modules to address document management, workflow automation, employee collaboration, and public service accessibility.
+Welcome to the Janta Nagari - Hackndore repository. This project is designed to enhance the efficiency and accessibility of municipal services in Indore by providing an e-office system. The system includes several modules to address document management, workflow automation, employee collaboration, and public service accessibility followed by cross-department collaboration.
 
 ## Table of Contents
 
