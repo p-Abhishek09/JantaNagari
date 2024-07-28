@@ -10,7 +10,6 @@ Welcome to the Janta Nagari - Hackndore repository. This project is designed to 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -131,10 +130,8 @@ We welcome contributions! Please follow these steps to contribute:
 4. *Push to your branch* on your forked repository.
 5. *Create a pull request* to the main branch of this repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-We thank the Indore Municipal Corporation and the organizers of the Hackndore hackathon for this opportunity
+We thank the Indore Municipal Corporation and the organizers of the Hackndore hackathon for this opportunity !
+
+
